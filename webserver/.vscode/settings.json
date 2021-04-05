@@ -6,7 +6,7 @@
                 "scope": "meta.function-call.generic.python",
                 "settings": {
                     "foreground": "#DCDCAA",
-                    "fontStyle": "bold"
+                    "fontStyle": ""
                 }
             }
         ]
