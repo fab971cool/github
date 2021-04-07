@@ -11,5 +11,7 @@
             }
         ]
 
-    }
+    },
+    "python.languageServer": "Pylance",
+    "workbench.colorTheme": "Abyss"
 }
