@@ -13,5 +13,5 @@
 
     },
     "python.languageServer": "Pylance",
-    "workbench.colorTheme": "Abyss"
+    "workbench.colorTheme": "Default Dark+"
 }
